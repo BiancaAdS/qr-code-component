@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/BiancaAdS/qr-code-component)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://qr-code-component-biancaads.vercel.app/)
 
 ## My process
 
